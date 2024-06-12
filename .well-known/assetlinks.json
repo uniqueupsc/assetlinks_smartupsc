@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.blogspot.iasgurusurya.www.smartupsc",
+      "sha256_cert_fingerprints": [
+        "46:FC:4B:45:B6:9D:BC:04:01:0D:50:CA:79:E6:96:B5:74:84:1B:81:9D:CF:B1:08:A5:63:C0:5A:AB:A0:68:FC"
+      ]
+    }
+  }
+]
